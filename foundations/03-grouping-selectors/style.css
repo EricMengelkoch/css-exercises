@@ -1,0 +1,14 @@
+.joshman,
+.magi {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.joshman {
+    background-color: black;
+    color: white;
+}
+
+.magi {
+    background-color: yellow;
+}
